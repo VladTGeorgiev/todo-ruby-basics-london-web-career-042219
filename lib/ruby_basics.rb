@@ -19,7 +19,7 @@ def return_a_value
 end
 
 def last_evaluated_value(value)
-  return expert
+  return "#{value}"
 end
 
 def pizza_party(choice = "cheese")
